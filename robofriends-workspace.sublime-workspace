@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wh",
+				"whitenoise"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/fionaapple/Downloads/robots.js",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import React from 'react';\nimport CardList from './CardList';\nimport SearchBox from './SearchBox';\nimport { robots } from './robots';\n\nconst App = () => {\n\n  return (\n    <div className='tc'>\n\n    <h1>RoboFriends</h1>\n    <SearchBox />\n    <CardList robots={robots}/>\n    </div>\n  );\n}\nexport default App;",
+			"file": "src/App.js",
+			"file_size": 305,
+			"file_write_time": 132545406885794303,
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fionaapple/Desktop/robofriends",
+		"/Users/fionaapple/Desktop/robofriends/public",
+		"/Users/fionaapple/Desktop/robofriends/src"
+	],
+	"file_history":
+	[
+		"/Users/fionaapple/Desktop/robofriends/package.json",
+		"/Users/fionaapple/Desktop/robofriends/src/index.js",
+		"/Users/fionaapple/Desktop/robofriends/src/Card.js",
+		"/Users/fionaapple/Desktop/robofriends/src/App.js",
+		"/Users/fionaapple/Desktop/robofriends/public/index.html",
+		"/Users/fionaapple/Desktop/robofriends/README.md",
+		"/Users/fionaapple/Desktop/robofriends/package-lock.json",
+		"/Users/fionaapple/Desktop/robofriends/.eslintcache",
+		"/Users/fionaapple/Downloads/ToDoListApp/ToDoListApp/Controllers/HomeController.cs",
+		"/Users/fionaapple/Downloads/ToDoListApp/ToDoListApp/appsettings.json",
+		"/Users/fionaapple/Downloads/CandyShop/CandyShop/Properties/launchSettings.json",
+		"/Users/fionaapple/Downloads/CandyShop/CandyShop/appsettings.Development.json",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DataLayer/SeedData/SeedBookAuthors.cs",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DataLayer/SeedData/SeedAuthors.cs",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DataLayer/SeedData/SeedBooks.cs",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DataLayer/SeedData/SeedGenres.cs",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DataLayer/BookstoreContext.cs",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/appsettings.json",
+		"/Users/fionaapple/Downloads/PavolsBookStore/PavolsBookStore/Models/DomainModels/Book.cs",
+		"/Users/fionaapple/Downloads/FutureValueCalculator/FutureValueCalculator/Controllers/HomeController.cs",
+		"/Users/fionaapple/Downloads/PavolsProductShop/PavolsProductShop/Controllers/ProductController.cs",
+		"/Users/fionaapple/Downloads/PavolsProductShop/PavolsProductShop/Models/Product.cs",
+		"/Users/fionaapple/Downloads/PavolsProductShop/PavolsProductShop/Models/DataBase.cs",
+		"/Users/fionaapple/Desktop/vidly-mvc-5-master/Vidly/404.html",
+		"/Users/fionaapple/Downloads/vidly-theme (1)/bootstrap-theme.css",
+		"/Users/fionaapple/Downloads/bootstrap.css",
+		"/Users/fionaapple/Downloads/StudentAssets 2/DatingApp.postman_collection.json",
+		"/Users/fionaapple/Desktop/csharpdate/API/appsettings.Development.json",
+		"/Users/fionaapple/Desktop/csharpdate/API/appsettings.json",
+		"/Users/fionaapple/Downloads/63 2/previewDist.js",
+		"/Users/fionaapple/Downloads/Ex_Files_Intro_DataStructures_Algorithms_Java 2/Exercise Files/src/chapter1/GCDFinder.java",
+		"/Users/fionaapple/Downloads/64/app/components/Header.js",
+		"/Users/fionaapple/Downloads/62/app/Main.js",
+		"/Users/fionaapple/Downloads/54/app/components/Home.js",
+		"/Users/fionaapple/Downloads/Ex_Files_Intro_DataStructures_Algorithms_Java/Exercise Files/src/chapter2/BubbleSorter.java",
+		"/Users/fionaapple/Downloads/51/app/components/Profile.js",
+		"/Users/fionaapple/Downloads/48/app/components/EditPost.js",
+		"/Users/fionaapple/Downloads/48/app/components/ViewSinglePost.js",
+		"/Users/fionaapple/Downloads/46/app/components/EditPost.js",
+		"/Users/fionaapple/Downloads/46/app/Main.js",
+		"/Users/fionaapple/Downloads/44/app/components/EditPost.js",
+		"/Users/fionaapple/Downloads/41/app/components/ViewSinglePost.js",
+		"/Users/fionaapple/Downloads/39/app/components/ViewSinglePost.js",
+		"/Users/fionaapple/Downloads/39/app/components/CreatePost.js",
+		"/Users/fionaapple/Downloads/39/app/StateContext.js",
+		"/Users/fionaapple/Desktop/13/complex-react-app/app/main.css",
+		"/Users/fionaapple/Downloads/36/app/components/Profile.js",
+		"/Users/fionaapple/Downloads/35/app/components/About.js",
+		"/Users/fionaapple/Downloads/35/app/DispatchContext.js",
+		"/Users/fionaapple/Downloads/23/app/components/HomeGuest.js",
+		"/Users/fionaapple/Downloads/19/app/components/Container.js",
+		"/Users/fionaapple/Downloads/19/app/components/Footer.js",
+		"/Users/fionaapple/Downloads/19/app/components/Header.js",
+		"/Users/fionaapple/Downloads/19/app/components/HomeGuest.js",
+		"/Users/fionaapple/Downloads/19/app/components/Terms.js",
+		"/Users/fionaapple/Downloads/19/app/components/About.js",
+		"/Users/fionaapple/Downloads/18/app/components/HomeGuest.js",
+		"/Users/fionaapple/Downloads/package (1).json",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/ozone/settings.py",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/lookup/templates/home.html",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/requirements.txt",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/lookup/templates/base.html",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/lookup/views.py",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/ozone/asgi.py",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/ozone/wsgi.py",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/lookup/templates/about.html",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/Procfile",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/lookup/urls.py",
+		"/Users/fionaapple/Desktop/pythonozone/ozone/ozone/urls.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".env"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/fionaapple/Desktop/robofriends"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/fionaapple/Downloads/robots.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
