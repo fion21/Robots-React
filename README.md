@@ -1,4 +1,4 @@
-# Robot React
+# Robots React
 
-A Create-react-app project that uses React Redux to manage states, fetch APIs and allows the user to search for the fetched results using functional components and Hooks
+A Create-react-app project that uses React Redux to manage states, fetch APIs and allows the user to search for the fetched results using functional components and hooks
 
