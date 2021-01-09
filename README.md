@@ -4,4 +4,4 @@ A Create-react-app project that uses React Redux to manage states, fetch APIs an
 
 ![alt text](https://github.com/fion21/Robots-React/blob/master/robosample.png)
 
-Reproduced here single-handedly by being based on the Senior Developer tasks set out to achieve in the ZTM Series by Andrei Neagoie.
+Reproduced by myself single-handedly by being based on the Senior Developer tasks set out to achieve in the ZTM Series by Andrei Neagoie.
