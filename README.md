@@ -1,6 +1,6 @@
 # Robots React
 
-A Create-react-app project that uses React Redux to manage states, fetch APIs and allows the user to search for the fetched results using functional components and hooks
+A Create-react-app project that uses React Redux to manage states, fetch APIs and allows the user to search for the fetched results using functional components and hooks. This deployment has been optimized for production from a production build file.
 
 ![alt text](https://github.com/fion21/Robots-React/blob/master/robosample.png)
 
